@@ -1,0 +1,133 @@
+body {
+    width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.container { 
+    width: 1440px;
+    
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    margin-top: 12px;
+}
+
+li {
+    margin-right: 50px;
+    font-weight: bold;
+    color: #636060;
+}
+
+.logo {
+    margin-right: 675px;
+    
+}
+
+.s1 {
+    width: 1440px;
+    height: 606px;
+    object-fit: cover;
+    margin-top: 20px;
+    background-image: url(../img/greece.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    
+}
+
+div h1 {
+    font-size: 79px ;
+    font-weight: 700;
+    color: white;
+}
+
+div h2 {
+    font-size: 19px;
+    font-weight: 400;
+    color: white;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.tx {
+    margin-top: 240px;
+
+}
+
+.div1 {
+    width: 250px;
+    margin-left: 100px;
+    margin-right: 85px;   
+}
+
+.s2 {
+    margin-top: 90px;
+}
+
+.div1 .h1 {
+    font-size: 17px;
+    font-weight: 400;
+    color: #636060;
+}
+
+.div1 .h2 {
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #636060;
+    margin-top: 40px;
+}
+
+.div2 {
+    width: 290px;
+    margin-right: 35px;
+}
+
+.p1 {
+    font-size: 19px ;
+    font-weight: 400 ;
+    color: #343232;
+    margin-top: 20px;
+}
+
+.p2 {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+    color: #636060;
+    
+}
+
+
+.all {
+    
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    
+
+    
+}
+
+div {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+
+.bob {
+    margin-top: 60px;
+    margin-left: 440px;
+    margin-bottom: 100px;
+}
